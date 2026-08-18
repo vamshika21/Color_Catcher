@@ -21,7 +21,7 @@ You don't need Python installed to play! Just download the standalone executable
 2. Download the `ColorCatcher.exe` file.
 3. Double-click the file to start playing instantly (Windows only).
 
-## 🛠️ For Developers (Running from Source)
+## For Developers (Running from Source)
 
 If you want to run the code yourself or modify the game:
 
